@@ -1,0 +1,21 @@
+{
+  "name": "pranjal_workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo \"No build step defined\"",
+    "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}' --max-warnings=0",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
+
